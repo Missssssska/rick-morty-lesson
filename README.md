@@ -1,1 +1,3 @@
-# rick-morty-lesson
+# ДЗ ProductStar
+## "Контейнеры и презентационные компоненты"
+### React
